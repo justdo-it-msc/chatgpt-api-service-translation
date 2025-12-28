@@ -20,5 +20,5 @@
 ---
 
 <p align="center">
-  https://translation-service.streamlit.app
+  https://justdo-it-msc-chatgpt-api-service-translation-app-yfw0wh.streamlit.app/
 </p>
